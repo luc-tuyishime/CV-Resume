@@ -89,37 +89,32 @@ Assessed the benefits and costs of different projects and explained them in deta
 ## Education
 
  JUNE 2012
-Computer Science 
+`Computer Science` 
 Gitwe Adventist College, Nyanza, Rwanda
  
-Additional Information
-Some of my work:
+## Additional Information
+
+- Some of my work:
 
 https://getsave.io
  
- 
 https://irembo-web-dev.oltranz.com
- 
  
 https://sg.bnr.rw 
  
- 
 https://ninjas-ah.herokuapp.com/
- 
-mlima platoform
- 
+
 https://lunchex.netlify.com/
  
 https://vaccine.netlify.com/
  
-Github
-
-Linkedin 
-
-Portfolio                                                              
+### Github
 https://github.com/luc-tuyishime
 
- https://www.linkedin.com/in/jean-luc-tuyishime-56043911a/
+### Linkedin 
+https://www.linkedin.com/in/jean-luc-tuyishime-56043911a/
+
+### Portfolio                                                              
 
 https://luc-tuyishime.github.io/portfolio/index.html
 
